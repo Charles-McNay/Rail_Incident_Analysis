@@ -22,6 +22,16 @@ I will be looking into the differences between incidents with larger crews and s
 
 **What I'm asking**
 
+* Is there a corelation between crew size and incidents?
+* How often do hazmat cars release material in incidents?
+* Are larger trains more likely to derail?
+* How many lives have been lost to rail incidents in the past 40 years?
+* How much property damage has rail related incidents caused?
+
+## SOURCE FOR DATASETS
+The main dataset was pulled from the transportation.gov website[^10] on 02/15/2023 
+
+
    
 Citations:
 [^1]: [Train derailments are buisness as usual in the railroad industry](https://grist.org/accountability/train-derailments-business-usual-railroad-industry/).
@@ -33,4 +43,4 @@ Citations:
 [^7]: [Distributed-power units (DPUs) are extra locomotives that are placed between or behind freight cars on very long trains](https://www.popularmechanics.com/technology/infrastructure/a5314/4345689/)
 [^8]: [evaluate the operation of trains longer than 7,500 feet](https://www.trains.com/trn/news-reviews/news-wire/railroads-use-of-long-trains-to-go-under-the-microscope/)
 [^9]  [A train car weighs between 30-80 tons](https://www.trainconductorhq.com/how-much-does-a-train-weigh/)
-
+[^10] [Transportation.gov](https://data.transportation.gov/Railroads/Rail-Equipment-Accident-Incident-Data/85tf-25kj)
