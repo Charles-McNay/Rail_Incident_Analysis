@@ -22,7 +22,8 @@ I will be looking into the differences between incidents with larger crews and s
 
 **What I'm asking**
 
-* Is there a corelation between crew size and incidents?
+* Are railroad incidents becoming more or less common?
+* Which Class 1 railroad has the most derailments? More fatalities? 
 * How often do hazmat cars release material in incidents?
 * Are larger trains more likely to derail?
 * How many lives have been lost to rail incidents in the past 40 years?
