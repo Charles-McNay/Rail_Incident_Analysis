@@ -41,12 +41,13 @@ All of the Libraries and Tools that used in this repo are included with Anaconda
 This project was completed using python 3.11
 
 In your terminal enter:
-'''
+
+```
 python -m pip install -U pip
 python -m pip install -U matplotlib
 pip install pandas
 pip install numpy
-'''
+```
 
 
    
