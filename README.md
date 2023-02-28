@@ -22,7 +22,7 @@ I will be looking into the differences between incidents with larger crews and s
 
 **What I'm asking**
 
-* Are railroad incidents becoming more or less common?
+* Are railroads becoming more or less dangerous to us?
 * Which Class 1 railroad has the most derailments? More fatalities? 
 * How often do hazmat cars release material in incidents?
 * Are larger trains more likely to derail?
@@ -32,6 +32,21 @@ I will be looking into the differences between incidents with larger crews and s
 ## SOURCE FOR DATASETS
 The main dataset was pulled from the transportation.gov website[^10] on 02/15/2023 
 The form the dataset was sourced from can be found ![HERE](images/Rail_Incident_report_form.pdf)
+
+
+
+### Package Instalations Required to Run this Code
+All of the Libraries and Tools that used in this repo are included with Anaconda.
+[Anaconda Installation](https://www.anaconda.com/products/distribution)
+This project was completed using python 3.11
+
+In your terminal enter:
+'''
+python -m pip install -U pip
+python -m pip install -U matplotlib
+pip install pandas
+pip install numpy
+'''
 
 
    
@@ -44,5 +59,7 @@ Citations:
 [^6]: [the industry proposed elimination of work rules that require four crew members on most trains ](https://www.washingtonpost.com/archive/business/1977/07/09/railroad-union-leaders-urge-nationalization-of-industry/43ccd33d-5c47-4e62-b196-6155a2a64f11/)
 [^7]: [Distributed-power units (DPUs) are extra locomotives that are placed between or behind freight cars on very long trains](https://www.popularmechanics.com/technology/infrastructure/a5314/4345689/)
 [^8]: [evaluate the operation of trains longer than 7,500 feet](https://www.trains.com/trn/news-reviews/news-wire/railroads-use-of-long-trains-to-go-under-the-microscope/)
+
 [^9]  [A train car weighs between 30-80 tons](https://www.trainconductorhq.com/how-much-does-a-train-weigh/)
+
 [^10] [Transportation.gov](https://data.transportation.gov/Railroads/Rail-Equipment-Accident-Incident-Data/85tf-25kj)
