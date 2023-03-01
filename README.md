@@ -8,7 +8,7 @@ The purpose of this project is to analyze the rate of incidents in the rail tran
 
 Freight train derailments are far more common than the general public is aware of and generally only gain media attention if the derailment affects a large number of people.[^1]
 
-The Association of American Railroads claim that 99.9% of hazardous material reaches it's destination without incident.[^2] 
+The Association of American Railroads claim that 99.9% of hazardous material reaches its destination without incident.[^2] 
 
 
 - More than 3.1 billion tons of hazmat transported in the US every year.[^3] Over 80% of all hazmat shipments are by rail.[^4]
@@ -18,7 +18,7 @@ The Association of American Railroads claim that 99.9% of hazardous material rea
 - Today Freight trains average 6,800 feet[^8]
 - A train can weigh anywhere from 8,818,490 lbs to 44,092,452 lbs or even more under some particular instances.[^9]
 
-I will be looking into the differences between incidents with larger crews and smaller trains and larger trains with smaller crews.
+I will be looking into which Class 1 railroads are more incident prone, which state has more derailments, deaths caused by rail related incidents and the damage costs associated with these incidents.
 
 **What I'm asking**
 
@@ -35,7 +35,7 @@ The form the dataset was sourced from can be found ![HERE](images/Rail_Incident_
 
 
 
-### Package Instalations Required to Run this Code
+### Package Installations Required to Run this Code
 All of the Libraries and Tools that used in this repo are included with Anaconda.
 [Anaconda Installation](https://www.anaconda.com/products/distribution)
 This project was completed using python 3.11
@@ -52,7 +52,7 @@ pip install numpy
 
    
 Citations:
-[^1]: [Train derailments are buisness as usual in the railroad industry](https://grist.org/accountability/train-derailments-business-usual-railroad-industry/).
+[^1]: [Train derailments are business as usual in the railroad industry](https://grist.org/accountability/train-derailments-business-usual-railroad-industry/).
 [^2]: [Hazmat releases are inevitable, the AAR claims 99.9% success rate of transporting hazmat material but the .1% could destroy a entire ecosystem](https://www.aar.org/issue/freight-rail-hazmat-safety/)
 [^3]: [800,000 hazmat shipments in the us every year](https://airseacontainers.com/blog/how-common-are-shipping-hazmat-spills/#:~:text=Millions%20of%20tons%20of%20hazardous,tons%20are%20transported%20each%20year.)
 [^4]: [70% of rail transported hazmat is via tank car](https://www.firehouse.com/rescue/article/10545487/hazardous-materials-containers-part-2-railroad-cars)
