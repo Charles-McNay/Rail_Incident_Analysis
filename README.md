@@ -43,10 +43,10 @@ This project was completed using python 3.11
 In your terminal enter:
 
 ```
+pip install -U kaleido
 python -m pip install -U pip
 python -m pip install -U matplotlib
 pip install pandas
-pip install numpy
 ```
 
 
