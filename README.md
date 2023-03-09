@@ -43,13 +43,14 @@ All of the Libraries and Tools that used in this repo are included with Anaconda
 [Anaconda Installation](https://www.anaconda.com/products/distribution)
 This project was completed using python 3.11
 
+## Packages needed to run this repo
 In your terminal enter:
 
 ```
-pip install -U kaleido
 python -m pip install -U pip
 python -m pip install -U matplotlib
 pip install pandas
+pip install -U kaleido
 ```
 
 
