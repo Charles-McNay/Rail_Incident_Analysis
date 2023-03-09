@@ -1,3 +1,6 @@
+This readme is currently in process and may not be accurate.
+
+
 # Railroad Freight Incident Analysis
 
 
