@@ -50,7 +50,7 @@ In your terminal enter:
 python -m pip install -U pip
 python -m pip install -U matplotlib
 pip install pandas
-pip install -U kaleido
+
 ```
 
 
