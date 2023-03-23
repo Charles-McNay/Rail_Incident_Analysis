@@ -27,10 +27,8 @@ I will be looking into which Class 1 railroads are more incident prone, which st
 
 * Are railroads becoming more or less dangerous to us?
 * Which Class 1 railroad has the most derailments? More fatalities? 
-* How often do hazmat cars release material in incidents?
-* Are larger trains more likely to derail?
 * How many lives have been lost to rail incidents in the past 40 years?
-* How much property damage has rail related incidents caused?
+
 
 ## SOURCE FOR DATASETS
 The main dataset was pulled from the transportation.gov website[^10] on 02/15/2023 
@@ -53,8 +51,20 @@ pip install pandas
 
 ```
 
+# Five Requriments for Code Louisville capstone project
+Read in a local csv
+
+Use pandas functions to clean
+
+Write a custom function
+
+2 basic plots  
+
+Markdown cells explaining my code
+
 
    
+
 Citations:
 [^1]: [Train derailments are business as usual in the railroad industry](https://grist.org/accountability/train-derailments-business-usual-railroad-industry/).
 [^2]: [Hazmat releases are inevitable, the AAR claims 99.9% success rate of transporting hazmat material but the .1% could destroy a entire ecosystem](https://www.aar.org/issue/freight-rail-hazmat-safety/)
