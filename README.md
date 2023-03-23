@@ -1,12 +1,10 @@
-This readme is currently in process and may not be accurate.
-
 
 # Railroad Freight Incident Analysis
 
 
 
 ##  ABOUT
-
+The dataset I have starts at 1975.
 The purpose of this project is to analyze the rate of incidents in the rail transported freight industry.
 
 Freight train derailments are far more common than the general public is aware of and generally only gain media attention if the derailment affects a large number of people.[^1]
@@ -32,7 +30,7 @@ I will be looking into which Class 1 railroads are more incident prone, which st
 
 ## SOURCE FOR DATASETS
 The main dataset was pulled from the transportation.gov website[^10] on 02/15/2023 
-The form the dataset was sourced from can be found ![HERE](images/Rail_Incident_report_form.pdf)
+The form the dataset was sourced from can be found [HERE](https://data.transportation.gov/Railroads/Rail-Equipment-Accident-Incident-Data/85tf-25kj)
 
 
 
@@ -42,13 +40,11 @@ All of the Libraries and Tools that used in this repo are included with Anaconda
 This project was completed using python 3.11
 
 ## Packages needed to run this repo
-In your terminal enter:
 
+
+In your terminal enter: 
 ```
-python -m pip install -U pip
-python -m pip install -U matplotlib
-pip install pandas
-
+pip install -r requirements.txt
 ```
 
 # Five Requriments for Code Louisville capstone project
